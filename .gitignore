@@ -61,9 +61,9 @@ venv.bak/
 
 # Project specific - Data and Models
 # Ignore raw and processed data, but keep the folders (via .gitkeep)
-data/raw/*
 !data/raw/.gitkeep
-data/processed/*
+data/raw
+data/processed
 !data/processed/.gitkeep
 
 # Ignore large model files
