@@ -80,3 +80,7 @@ models/*
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz

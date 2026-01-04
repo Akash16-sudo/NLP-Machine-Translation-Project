@@ -18,7 +18,17 @@ This project is organized as follows:
   - `docs/`: Final project report (PDF/LaTeX).
   - `presentation/`: Slides and demo video.
 
+
+## Model Weights ⬇️
+
+The fine-tuned model (Facebook BART-Large-CNN) is too large for GitHub (1.6GB).
+
+**[Download Model from Google Drive](https://drive.google.com/drive/folders/1PE6XAQ1WZcDwOoUUBvanA9x_83QbsmyW?usp=sharing)**
+
+Please download the model and place it in: `models/final_model_full/`
+
 ## Getting Started
+
 
 1.  **Clone the repository**.
 2.  **Install dependencies**: (Add instructions later)
